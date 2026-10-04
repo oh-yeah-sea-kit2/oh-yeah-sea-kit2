@@ -17,7 +17,6 @@
 
 ## 🔗 Links
 
-[![X](https://img.shields.io/badge/X-@derorian41-000000?logo=x)](https://x.com/derorian41)
 [![Zenn](https://img.shields.io/badge/Zenn-oh__yeah__sea__kit-3EA8FF?logo=zenn)](https://zenn.dev/oh_yeah_sea_kit)
 [![Qiita](https://img.shields.io/badge/Qiita-oh--yeah--sea--kit2-55C500?logo=qiita)](https://qiita.com/oh-yeah-sea-kit2)
 [![Blog](https://img.shields.io/badge/Blog-oysk2.com-green)](https://www.oysk2.com/)
